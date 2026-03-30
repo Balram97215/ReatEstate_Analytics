@@ -1,0 +1,6 @@
+streamlit==1.40.0
+pandas==2.1.4
+plotly==5.17.0
+gdown==5.1.0
+sqlite3
+python-dotenv==1.0.0
